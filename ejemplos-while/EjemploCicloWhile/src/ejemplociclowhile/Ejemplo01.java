@@ -16,7 +16,7 @@ public class Ejemplo01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+
         System.out.printf("%d\n", 1);
         System.out.printf("%d\n", 2);
         System.out.printf("%d\n", 3);
@@ -31,5 +31,5 @@ public class Ejemplo01 {
         System.out.printf("%d\n", 12);
         System.out.printf("%d\n", 13);
     }
-    
+
 }
