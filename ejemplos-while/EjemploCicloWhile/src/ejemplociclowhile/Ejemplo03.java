@@ -31,10 +31,14 @@ public class Ejemplo03 {
             valor_ingresado = entrada.nextInt();
             suma = suma + valor_ingresado;
             System.out.printf("Valor ingresado %d\n", valor_ingresado);
-            contador = contador + 1;
+           contador = contador + 1;
         }
 
         System.out.printf("La suma final es %d\n", suma);
+        /* El codigo nos pide que ingresemos valores a sumar y tenemos un ciclo 
+        repetitivo con un limite de 5, entonces nos pide que ingresemos 5 
+        valores y va almacenando todo en una sola variable para presentarla como
+        suma total*/
 
     }
 }
